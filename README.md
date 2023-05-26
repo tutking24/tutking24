@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... creating a website
 - 🌱 I’m currently learning ... html
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: im on github replit and codepen soon codesandbox
 
 <!---
 tutking24/tutking24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
